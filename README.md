@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukesh Kumar Rao</h1>
 <h3 align="center">Cyber Security Consultant and Instructor at iNeuron. Cyber Security Consultant at Cyber Security Society. Cyber Security Career Consultant at Expertrons. Cyber Security researcher and Bug Bounty at Hackerone and Bugcrowd. I am a technical person interested in new technology in the IT world. I like to work in Cyber Security, Network Security, Server Administration, Cloud computing and Data centres. My passion for training people and getting aware of Cyber Security is a mission that makes ready people to fight against new Cyber Attacks. Currently providing Cyber Security and Career Guidance Consultancy. Provide training in Cyber Security and Cloud Computing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh420&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh420" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cybermukesh&label=Profile%20views&color=0e75b6&style=flat" alt="cybermukesh" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mukesh420" alt="mukesh420" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cybermukesh" alt="cybermukesh" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/mukeshkrao" target="blank"><img src="https://img.shields.io/twitter/follow/mukeshkrao?logo=twitter&style=for-the-badge" alt="mukeshkrao" /></a> </p>
 
