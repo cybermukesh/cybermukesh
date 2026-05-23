@@ -1,15 +1,17 @@
-# 🚀 Professional GitHub Profile README — Mukesh Kumar Rao
+# 🚀 Ultra Modern Cyber Security GitHub Profile README — Mukesh Kumar Rao
 
 ````md
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Mukesh%20Kumar%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Consultant%20%7C%20DevSecOps%20Engineer%20%7C%20Cloud%20Security&descAlignY=55" width="100%" />
+
 # Hi 👋 I'm Mukesh Kumar Rao
 
-### Cyber Security Consultant • DevSecOps Engineer • Cloud Security Specialist • Technical Trainer
+### 🔐 Cyber Security Consultant • ⚙️ DevSecOps Engineer • ☁️ Cloud Security Specialist • 🎓 Technical Trainer
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=900&lines=Cyber+Security+Consultant;DevSecOps+%7C+Cloud+Security+%7C+SOC+Operations;Bug+Bounty+Hunter+%7C+Security+Researcher;AWS+%7C+Azure+%7C+Kubernetes+%7C+Docker;Helping+People+Build+Careers+in+Cyber+Security" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=mukesh420&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=cybermukesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 <img src="https://img.shields.io/github/followers/mukesh420?label=Followers&style=for-the-badge&color=blue" alt="followers" />
 <img src="https://img.shields.io/github/stars/mukesh420?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 
@@ -18,6 +20,12 @@
 ---
 
 # 💫 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Cyber+Security+Researcher;Cloud+Security+Architect;DevSecOps+Engineer;Bug+Bounty+Hunter;Technical+Mentor+%26+Instructor;Building+Secure+Digital+Infrastructure" alt="Typing SVG" />
+
+</div>
 
 ```yaml
 Name: Mukesh Kumar Rao
@@ -137,17 +145,35 @@ I actively help students, professionals, and organizations strengthen their secu
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mukesh420&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cybermukesh&theme=tokyonight" width="100%" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mukesh420&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh420&theme=tokyonight&hide_border=true" />
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybermukesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermukesh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<img width="98%" src="https://streak-stats.demolab.com?user=cybermukesh&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cybermukesh&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
 ---
 
 # 🏆 Achievements & Recognition
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=cybermukesh&theme=radical&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
+
+</div>
+
+<br>
 
 <div align="center">
 
@@ -162,6 +188,21 @@ I actively help students, professionals, and organizations strengthen their secu
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh420&theme=react-dark&hide_border=true&area=true" width="95%" />
+
+</div>
+
+---
+
+# ⚡ Professional Highlights
+
+<div align="center">
+
+| 🚀 Experience             | 🔐 Security Domains      | ☁️ Cloud Platforms |
+| ------------------------- | ------------------------ | ------------------ |
+| Cyber Security Consulting | Penetration Testing      | AWS                |
+| Security Research         | Threat Hunting           | Azure              |
+| DevSecOps Engineering     | SOC Operations           | Kubernetes         |
+| Technical Training        | Vulnerability Assessment | Docker             |
 
 </div>
 
