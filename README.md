@@ -1,19 +1,20 @@
-# 🚀 Ultra Modern Cyber Security GitHub Profile README — Mukesh Kumar Rao
-
-````md
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e3a8a,100:7c3aed&height=220&section=header&text=Mukesh%20Kumar%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cyber%20Security%20Consultant%20%7C%20DevSecOps%20Engineer%20%7C%20Cloud%20Security&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,50:0f172a,100:7c3aed&height=240&section=header&text=Mukesh%20Kumar%20Rao&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Lead%20Security%20Consultant%20%7C%20Red%20Team%20%7C%20Blue%20Team%20%7C%20SOC%20Architecture&descAlignY=55" width="100%" />
 
-# Hi 👋 I'm Mukesh Kumar Rao
+# 👋 Hey, I'm Mukesh Kumar Rao
 
-### 🔐 Cyber Security Consultant • ⚙️ DevSecOps Engineer • ☁️ Cloud Security Specialist • 🎓 Technical Trainer
+### 🔴 Red Teamer • 🔵 Blue Teamer • 🛡️ SOC Architect • ☁️ Cloud Security Specialist • 🔐 Lead Security Consultant
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F72D&center=true&vCenter=true&random=false&width=900&lines=Cyber+Security+Consultant;DevSecOps+%7C+Cloud+Security+%7C+SOC+Operations;Bug+Bounty+Hunter+%7C+Security+Researcher;AWS+%7C+Azure+%7C+Kubernetes+%7C+Docker;Helping+People+Build+Careers+in+Cyber+Security" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=1000&lines=Lead+Security+Consultant;Red+Team+Operator;Blue+Team+Defender;SOC+Infrastructure+Architect;Cloud+Security+Specialist;Threat+Hunter+%7C+Security+Researcher;Building+Resilient+Cyber+Defense+Systems" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=cybermukesh&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/mukesh420?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-<img src="https://img.shields.io/github/stars/mukesh420?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=cybermukesh&label=Profile%20Views&color=8b5cf6&style=for-the-badge" />
+
+<img src="https://img.shields.io/github/followers/cybermukesh?style=for-the-badge&color=7c3aed&labelColor=0f172a" />
+
+<img src="https://img.shields.io/github/stars/cybermukesh?style=for-the-badge&color=06b6d4&labelColor=0f172a" />
 
 </div>
 
@@ -21,61 +22,68 @@
 
 # 💫 About Me
 
+```yaml
+Name: Mukesh Kumar Rao
+
+Role:
+  Lead Security Consultant
+
+Core Domains:
+  - Red Team Operations
+  - Blue Team Defense
+  - SOC Architecture
+  - Cloud Security
+  - Threat Hunting
+  - Incident Response
+  - Web Application Security
+  - Network Security
+  - SIEM Engineering
+  - Security Research
+
+Expertise:
+  - Penetration Testing
+  - Vulnerability Assessment
+  - Threat Detection Engineering
+  - Cloud Infrastructure Security
+  - Security Monitoring
+  - Active Defense Strategy
+  - Kubernetes & Container Security
+
+Mission:
+  Designing and strengthening cyber defense
+  ecosystems through offensive security,
+  defensive operations, and scalable SOC
+  architecture solutions.
+```
+
+---
+
+# 🔥 Security Operations Profile
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Cyber+Security+Researcher;Cloud+Security+Architect;DevSecOps+Engineer;Bug+Bounty+Hunter;Technical+Mentor+%26+Instructor;Building+Secure+Digital+Infrastructure" alt="Typing SVG" />
+| 🔴 Red Team | 🔵 Blue Team | 🛡️ SOC Architecture |
+|---|---|---|
+| Adversary Simulation | Threat Detection | SIEM Engineering |
+| Penetration Testing | Incident Response | Log Management |
+| Vulnerability Research | Threat Hunting | Security Monitoring |
+| Exploit Validation | Detection Engineering | SOC Infrastructure |
+| Attack Surface Analysis | Malware Analysis | Security Automation |
 
 </div>
 
-```yaml
-Name: Mukesh Kumar Rao
-Role: Cyber Security Consultant & Instructor
-Focus Areas:
-  - Cyber Security
-  - DevSecOps
-  - Cloud Security
-  - Penetration Testing
-  - SOC Operations
-  - Threat Hunting
-  - Network Security
-  - Kubernetes Security
-  - AWS & Azure Security
-
-Current Mission:
-  Empowering individuals and organizations with practical
-  cyber security knowledge and real-world security skills.
-````
-
 ---
 
-# 🧠 Professional Summary
-
-I am a passionate Cyber Security Consultant, Technical Trainer, and Security Researcher with hands-on experience in:
-
-* 🔐 Penetration Testing & Web Application Security
-* ☁️ Cloud Security (AWS / Azure)
-* ⚙️ DevSecOps & Infrastructure Security
-* 🛡️ SOC Operations & Threat Detection
-* 🐞 Bug Bounty Hunting & Vulnerability Assessment
-* 🌐 Network & Server Administration
-* 📊 Security Monitoring & SIEM
-* 🐳 Docker & Kubernetes Security
-* 🎓 Cyber Security Mentorship & Career Guidance
-
-I actively help students, professionals, and organizations strengthen their security posture while building scalable and secure cloud-native environments.
-
----
-
-# 🚀 Current Focus
+# ☁️ Cloud & Infrastructure Security
 
 <div align="center">
 
-| 🔭 Working On             | 🌱 Learning          | 🤝 Open For               |
-| ------------------------- | -------------------- | ------------------------- |
-| Advanced DevSecOps        | IoT Security         | Security Consulting       |
-| Cloud Security Automation | AI + Cyber Security  | Technical Training        |
-| Security Research         | Digital Marketing    | Open Source Collaboration |
-| Threat Hunting Labs       | Kubernetes Hardening | Career Mentorship         |
+| AWS Security | Azure Security | Container Security |
+|---|---|---|
+| IAM Hardening | Identity Protection | Docker Security |
+| Cloud Monitoring | Defender for Cloud | Kubernetes Security |
+| Threat Detection | Azure Sentinel | Runtime Protection |
+| Infrastructure Security | SIEM Integration | Cluster Hardening |
 
 </div>
 
@@ -85,59 +93,51 @@ I actively help students, professionals, and organizations strengthen their secu
 
 <div align="center">
 
-<a href="https://linkedin.com/in/mukeshkumarrao" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://linkedin.com/in/cybermukesh">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://twitter.com/mukeshkrao" target="_blank">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+<a href="https://twitter.com/mukeshkrao">
+<img src="https://img.shields.io/badge/Twitter-111827?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
-<a href="https://github.com/mukesh420" target="_blank">
+<a href="https://github.com/cybermukesh">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://instagram.com/cybersecurity.mukesh" target="_blank">
+<a href="https://instagram.com/cyber_mukesh">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
-<a href="https://www.youtube.com/@cyberdooms" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
 <a href="mailto:mukeshmaa6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-# 🛠️ Tech Stack & Security Arsenal
+# ⚡ Security Arsenal
 
-## ☁️ Cloud & DevOps
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,terraform,linux,bash,git,github,nginx" />
-</p>
+<div align="center">
 
 ## 🔐 Security & Monitoring
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=elasticsearch,grafana,prometheus,selenium" />
-</p>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,powershell,elasticsearch,grafana,mongodb,mysql,postgresql&theme=dark" />
 
-## 💻 Programming & Development
+<br><br>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,c,php,html,css,mysql,postgresql,mongodb" />
-</p>
+## ☁️ Cloud & Infrastructure
 
-## ⚡ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,nginx,jenkins,git,github&theme=dark" />
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=figma,photoshop,postman,vscode" />
-</p>
+<br><br>
+
+## 🧰 Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma&theme=dark" />
+
+</div>
 
 ---
 
@@ -145,27 +145,23 @@ I actively help students, professionals, and organizations strengthen their secu
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cybermukesh&theme=tokyonight" width="100%" />
-
-</div>
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybermukesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermukesh&layout=compact&theme=tokyonight&hide_border=true" />
-
-<img width="98%" src="https://streak-stats.demolab.com?user=cybermukesh&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cybermukesh&theme=tokyonight" />
 
 <br><br>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cybermukesh&theme=tokyo-night&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cybermukesh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cybermukesh&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img width="98%" src="https://streak-stats.demolab.com?user=cybermukesh&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# 🏆 Achievements & Recognition
+# 🏆 Recognition & Contributions
 
 <div align="center">
 
@@ -173,192 +169,47 @@ I actively help students, professionals, and organizations strengthen their secu
 
 </div>
 
-<br>
+---
+
+# 🧠 Current Research & Focus
+
+- Threat Detection Engineering
+- Advanced Red Team Operations
+- SOC Automation & Analytics
+- Kubernetes Security Hardening
+- Cloud Native Threat Monitoring
+- Adversary Emulation
+- AI-Powered Threat Intelligence
+- Zero Trust Security Architecture
+
+---
+
+# 💼 Security Philosophy
+
+> “Strong cyber defense is built through continuous offensive testing, intelligent monitoring, and resilient security architecture.”
+
+---
+
+# 🤝 Open For Collaboration
+
+- Red Team Engagements
+- SOC Design & Deployment
+- Threat Hunting Operations
+- Security Assessments
+- Cloud Security Architecture
+- Detection Engineering
+- Security Research Collaboration
+
+---
+
+# ☕ Community & Security
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mukesh420&theme=radical&no-frame=true&row=1&column=7" />
+🔐 Securing Digital Infrastructure  
+🚀 Building Resilient Security Operations  
+🛡️ Offensive + Defensive Security Mindset  
 
 </div>
 
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mukesh420&theme=react-dark&hide_border=true&area=true" width="95%" />
-
-</div>
-
----
-
-# ⚡ Professional Highlights
-
-<div align="center">
-
-| 🚀 Experience             | 🔐 Security Domains      | ☁️ Cloud Platforms |
-| ------------------------- | ------------------------ | ------------------ |
-| Cyber Security Consulting | Penetration Testing      | AWS                |
-| Security Research         | Threat Hunting           | Azure              |
-| DevSecOps Engineering     | SOC Operations           | Kubernetes         |
-| Technical Training        | Vulnerability Assessment | Docker             |
-
-</div>
-
----
-
-# 🧩 Featured Expertise
-
-<div align="center">
-
-| Domain              | Skills                                 |
-| ------------------- | -------------------------------------- |
-| 🔐 Cyber Security   | VAPT, Bug Bounty, Threat Hunting, SOC  |
-| ☁️ Cloud Security   | AWS Security, Azure Security, IAM      |
-| ⚙️ DevSecOps        | CI/CD Security, Docker, Kubernetes     |
-| 🌐 Network Security | Firewalls, IDS/IPS, SIEM               |
-| 🧠 Research         | Malware Analysis, Security Research    |
-| 🎓 Training         | Mentorship, Career Guidance, Workshops |
-
-</div>
-
----
-
-# 📚 Currently Exploring
-
-* Advanced Kubernetes Security
-* Threat Intelligence Automation
-* AI for Cyber Defense
-* Secure Infrastructure Automation
-* Zero Trust Architecture
-* Cloud Native Security
-
----
-
-# 💼 Professional Philosophy
-
-> “Cyber Security is not just about tools and attacks — it's about awareness, resilience, and building a safer digital future.”
-
----
-
-# 🤝 Let's Collaborate
-
-I’m always open to collaborating on:
-
-* Cyber Security Projects
-* DevSecOps Implementations
-* Open Source Security Tools
-* Security Awareness Programs
-* Cloud Security Solutions
-* Technical Workshops & Training
-
----
-
-# ☕ Support & Appreciation
-
-<div align="center">
-
-If you like my work, consider following my repositories and connecting with me.
-
-⭐ Star repositories that helped you.
-🔁 Share knowledge with the community.
-🚀 Keep learning and keep securing.
-
-</div>
-
----
-
-# 🎯 Profile Optimization Suggestions
-
-## Replace or Update These Sections:
-
-### 1. Add Real Metrics
-
-Replace placeholders with:
-
-* Certifications completed
-* Students mentored
-* Security projects completed
-* Vulnerabilities reported
-* Workshops conducted
-
-### 2. Add Featured Repositories
-
-Pin repositories related to:
-
-* DevSecOps
-* Security Labs
-* Cloud Security
-* Python Security Tools
-* Automation Scripts
-
-### 3. Add Certifications Section
-
-Example:
-
-```md
-# 🏅 Certifications
-- AWS Certified
-- CEH
-- Security+
-- Azure Security Engineer
-- Kubernetes Security Specialist
-```
-
-### 4. Add Blog/Articles Section
-
-If you write blogs or LinkedIn posts:
-
-```md
-# ✍️ Latest Articles
-- Cloud Security Best Practices
-- DevSecOps Pipeline Security
-- Bug Bounty Learning Roadmap
-```
-
-### 5. Add Animated Snake Contribution
-
-```md
-![snake gif](https://github.com/mukesh420/mukesh420/blob/output/github-contribution-grid-snake.svg)
-```
-
----
-
-# 🔥 Final Professional Recommendations
-
-✅ Keep the README visually balanced
-✅ Avoid overcrowding too many icons
-✅ Pin your best repositories
-✅ Maintain consistent branding
-✅ Use dark-themed stats for modern look
-✅ Keep GitHub active weekly
-✅ Add security-focused project showcases
-✅ Add certification badges later
-
----
-
-<div align="center">
-
-### 🚀 Building Secure Digital Ecosystems Through Knowledge, Research & Innovation
-
-</div>
-```
-
----
-
-This upgraded README was professionally redesigned from your original profile content and structure. It includes:
-
-* Modern GitHub profile design
-* Professional branding
-* Animated typing banner
-* GitHub analytics
-* Contribution graph
-* Trophy section
-* Better section hierarchy
-* Cleaner badges and icons
-* Enterprise-level presentation style
-* Recruiter-friendly formatting
-* Strong cyber security positioning
-
-Original uploaded profile source used: fileciteturn0file0
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:1e3a8a,100:050816&height=120&section=footer"/>
